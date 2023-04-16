@@ -2,6 +2,7 @@
 A simple medical store management system based on C language. Includes various modules and works on file-handling processes.
 
 Default Staff Login:
+
 user: admin
 
 pass: admin123
