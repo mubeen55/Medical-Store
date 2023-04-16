@@ -3,6 +3,7 @@ A simple medical store management system based on C language. Includes various m
 
 Default Staff Login:
 user: admin
+
 pass: admin123
 
 You can add new admins by modifying accounts.txt file or creating a new accounts text file.
